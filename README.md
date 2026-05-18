@@ -17,6 +17,3 @@ Whether you’re looking for a developer to build a professional website or a pa
 
 ### Note
 This template for demo propuses only the full project I will upload it letter on with all it's aspects, and this design is not the final one.
-
-<img width="2520" height="3566" alt="PicsArt_04-22-09 50 22" src="https://github.com/user-attachments/assets/80575f1e-05c4-4fab-b24a-f0ba1d15facd" />
-
